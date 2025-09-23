@@ -2,11 +2,11 @@ name: Update Filters
 on: 
   workflow_dispatch:
   schedule:
-  - cron: 0 */8 * * *
+  - cron: 0 */12 * * *
 
 env:
   TZ: Asia/Shanghai
-  SINGBOX_VERSION: 1.12.4
+  SINGBOX_VERSION: 1.12.8
   MIHOMO_VERSION: 1.19.13
 
 jobs:
