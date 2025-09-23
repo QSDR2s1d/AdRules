@@ -139,6 +139,3 @@ class ReadMe(object):
             for rule in self.ruleList:
                 f.write("| %s | %s |%s %s |\n" % (rule.name, rule.type, self.__subscribeLink(rule.filename, rule.url),rule.latest))
             f.write("\n")
-            
-            f.write("## Star History\n")
-            f.write("[![Star History Chart](https://api.star-history.com/svg?repos=QSDR2s1d/AdRules&type=Date)](https://star-history.com/#QSDR2s1d/AdRules&Date)\n")
