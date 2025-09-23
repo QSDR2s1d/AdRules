@@ -48,6 +48,3 @@
 |:-|:-|:-|:-|:-|:-|:-|
 | AdGuard 拦截规则 | filter | [原始链接](https://raw.githubusercontent.com/QSDR2s1d/Ad_Rules/master/data/rules/adblock.txt) | [加速链接1](https://gcore.jsdelivr.net/gh/QSDR2s1d/AdRules@main/rules/AdGuard_拦截规则.txt) | [加速链接2](https://github.boki.moe/https://raw.githubusercontent.com/QSDR2s1d/AdRules/main/rules/AdGuard_拦截规则.txt) | [加速链接3](https://ghfast.top/https://raw.githubusercontent.com/QSDR2s1d/AdRules/main/rules/AdGuard_拦截规则.txt) | 2025/09/23 |
 | AdGuard Home DNS拦截规则 | filter | [原始链接](https://raw.githubusercontent.com/QSDR2s1d/Ad_Rules/master/data/rules/dns.txt) | [加速链接1](https://gcore.jsdelivr.net/gh/QSDR2s1d/AdRules@main/rules/AdGuard_Home_DNS拦截规则.txt) | [加速链接2](https://github.boki.moe/https://raw.githubusercontent.com/QSDR2s1d/AdRules/main/rules/AdGuard_Home_DNS拦截规则.txt) | [加速链接3](https://ghfast.top/https://raw.githubusercontent.com/QSDR2s1d/AdRules/main/rules/AdGuard_Home_DNS拦截规则.txt) | 2025/09/23 |
-
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=QSDR2s1d/AdRules&type=Date)](https://star-history.com/#QSDR2s1d/AdRules&Date)
