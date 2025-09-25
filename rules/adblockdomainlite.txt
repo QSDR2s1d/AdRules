@@ -3,8 +3,8 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 12 个小时更新一次。规则源：AdGuard 拦截规则、AdGuard Home DNS拦截规则、白名单规则。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/QSDR2s1d/AdRules
 ! Source: https://raw.githubusercontent.com/QSDR2s1d/AdRules/main/rules/adblockdomainlite.txt
-! Version: 20250924183925
-! Last modified: 2025/09/24 18:39:25
+! Version: 20250925083932
+! Last modified: 2025/09/25 08:39:32
 ! Blocked domains: 7650
 !
 00xvppy.cn
